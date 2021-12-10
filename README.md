@@ -8,10 +8,8 @@ A ideia foi a criação de um formulário com algumas animações para preenchim
 
 O layout foi pensado para possuir algumas animações para tornar o formulário um pouco mais interativo.
 
-![image](https://user-images.githubusercontent.com/95894803/145576947-6aba9bd9-3ae4-4893-a29c-ec86038efb76.png)
-
-![image](https://user-images.githubusercontent.com/95894803/145577148-570c5e58-dafd-4f27-9409-b7d6e1580d67.png)
-
+![image](https://user-images.githubusercontent.com/95894803/145578202-d95d123d-82e4-4b68-a420-e1ff43482f37.png)
+![image](https://user-images.githubusercontent.com/95894803/145578294-f91fa1bf-c68d-458a-9685-22a52207db04.png)
 # Tecnologias utilizadas
 
 Html, Css e PHP.
