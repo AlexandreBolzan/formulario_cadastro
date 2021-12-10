@@ -14,10 +14,6 @@ O layout foi pensado para possuir algumas animações para tornar o formulário 
 
 Html, Css e PHP.
 
-### Contém no Projeto
-
-Esse projeto foi desenvolvido através de um desafio.
-Sua próxima etapa seria a criação de um banco de dados através das informações preenchidas no formulário.
 
 ## Sobre mim
 
