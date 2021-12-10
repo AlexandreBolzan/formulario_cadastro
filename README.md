@@ -22,7 +22,7 @@ Sou rec√©m iniciado no mundo da tecnologia, completamente apaixonado pela inova√
 
 # Autor
 
-Alexandre Bolzan de Moraes
-https://www.linkedin.com/in/alexandre-bolzan/
-+55 42 98425-3740
+Alexandre Bolzan de Moraes - 
+https://www.linkedin.com/in/alexandre-bolzan/ - 
++55 42 98425-3740 - 
 bolzanmoraes@gmail.com
